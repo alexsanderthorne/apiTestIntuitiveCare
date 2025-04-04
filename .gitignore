@@ -1,0 +1,34 @@
+# Dependências do Node.js
+node_modules/
+
+# Dependências do Python
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Diretórios de build
+dist/
+build/
+target/
+
+# Ferramentas de build do Python
+.eggs/
+*.egg-info/
+
+# Logs
+*.log
+
+# Configurações locais e temporárias
+.env
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs/editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
